@@ -5,7 +5,7 @@
 #docker build --tag=app .
 
 
-dockerpath="noahgift/app"
+dockerpath="manojbonam/sampleapp"
 
 # Authenticate & Tag
 echo "Docker ID and Image: $dockerpath"
